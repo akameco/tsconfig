@@ -1,0 +1,17 @@
+{
+  "name": "@akameco/tsconfig",
+  "version": "0.0.0",
+  "description": "Shared TypeScript config for my projects",
+  "license": "MIT",
+  "repository": "akameco/tsconfig",
+  "author": "akameco <akameco.t@gmail.com> (akameco.github.io)",
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig"
+  ]
+}
