@@ -18,6 +18,7 @@ $ yarn add --dev @akameco/tsconfig
 {
   "extends": "@akameco/tsconfig",
     "compilerOptions": {
+      "outDir": "dist",
       "lib": [
         "es2018"
       ]
