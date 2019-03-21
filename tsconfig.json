@@ -5,6 +5,7 @@
         "esModuleInterop": true,
         "forceConsistentCasingInFileNames": true,
         "jsx": "react",
+        "resolveJsonModule": true,
         "module": "commonjs",
         "moduleResolution": "node",
         "newLine": "LF",
