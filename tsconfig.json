@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "target": "es2017", // Node.js 8
     "allowSyntheticDefaultImports": true,
     "declaration": true,
     "esModuleInterop": true,
@@ -18,7 +19,6 @@
     "resolveJsonModule": true,
     "sourceMap": true,
     "strict": true,
-    "strictNullChecks": true,
-    "target": "es5"
+    "strictNullChecks": true
   }
 }
